@@ -2,6 +2,8 @@ AUTHOR = 'Gerard van Genderen'
 SITENAME = 'Gerrinator'
 SITEURL = ''
 
+THEME = 'templates/mytheme'
+
 PATH = 'content'
 
 TIMEZONE = 'America/Edmonton'
